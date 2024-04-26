@@ -1,5 +1,76 @@
 # Data Analytic: Week 1
+What is Data?
+Data refers to specific information collected and interpreted for a particular purpose. If data is not presented in a particular format, it is not useful for either computers or humans.
+Data refers to specific information collected and interpreted for a particular purpose. The basic structures used in data analysis include rows and columns.
 
+## Data Basic
+### Type of Data Variable
+#### 1) Category
+A data type that can be stored and identified based on the name or label given to the data.
+##### - nominal
+With this data, it's impossible to establish a specific order or determine superiority, as the data doesn't allow for any calculative comparisons.
+Example: 
+country column is nominal data because we cannot determine which one can be put in the first/last order and which one is better.
+
+![Screenshot (832)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/6bb15617-1067-43a4-9ef9-554d8c76f27e)
+
+##### - ordinal
+Ordinal data measures data that is non-numeric and the interval value is unknown.
+Example: 
+Rating column is ordinal data because this data uses a certain order to rank and is effective for data that requires order when evaluating. 
+for example, PG (Parental Guidance) where movies with this rating can be watched by children with parental supervision. and other ratings
+
+#### 2) Numeric
+Data used a constant variable, to store a value in the form of a number.
+##### - Discrete
+A discrete value is taken from a particular data set, a data set that has a finite number of values. Can take on possible values hat can be listed out.
+
+##### note: 
+because in the netflix.csv dataset, i didn't find any example of continues data, so I replaced it with airbnb.csv
+Example:
+Bedrooms column is an integer, where integers are included in discrete data and can take on possible values hat can be listed out.
+
+![Screenshot (834)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/abb1e609-8412-49ec-a96e-cfdfa5a17bf0)
+
+##### - Continues
+A data that can be retrieved but has an unlimited number of values and of course the value is not fixed. Can possible values cannot be counted and only be described using interval on the real number line.
+Example:
+guest_satisfaction_overall column is a measurements, possible values cannot be counted and can only be described using intervals
+
+#### 3) Boolean
+This data type is usually used to represent true and false values in data
+Example: The boolean data is room_shared column, room_private column, host_is_superhost column
+
+### Type of Data Categories
+#### 1) Data Structures
+##### - Structures data
+Structured data example are name, dates, stock information, person capacity, bedrooms, etc
+
+##### - Unstructures data
+Unstructured data example are audio, image, video, natural language, document
+
+#### 2) Data Categories
+##### - Quatitantive
+Quantitative data are collected using instruments such as rulers, scales, beakers, and thermometers.
+The example below using df.describe() is a quantitative calculation because there is mean, min, max, etc.
+
+![Screenshot (835)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/05e62f98-fd70-4c7f-8269-6ddc287bb1f7)
+
+##### - Qualitative
+Qualitative data involve using your senses to observe and interpret the results.
+An example is room_type, where there are several options.
+
+#### 3) Meta Data
+Metadata in data analytics refers to the descriptive or structural information about a dataset. It provides context about the data, helping analysts understand and interpret the data better. 
+Example:
+
+![Screenshot (837)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/820fefa8-9a29-4151-89d1-13cfccc7f8a5)
+
+
+#### 4) Big Data
+Big data refers to extremely large datasets that are too complex and massive to be processed using traditional data processing applications. These datasets typically consist of structured, semi-structured, and unstructured data from various sources, including social media, sensors, online transactions, and more.
+
+Example: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
 
 ## Data Manipulation 
 
