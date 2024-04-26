@@ -12,13 +12,15 @@ With this data, it's impossible to establish a specific order or determine super
 Example: 
 country column is nominal data because we cannot determine which one can be put in the first/last order and which one is better.
 
-![Screenshot (832)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/6bb15617-1067-43a4-9ef9-554d8c76f27e)
+![Screenshot (839)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/e3b7b36b-b6fd-4dad-9f2e-6d1b5b83e4a5)
 
 ##### - Ordinal
 Ordinal data measures data that is non-numeric and the interval value is unknown.
 Example: 
 Rating column is ordinal data because this data uses a certain order to rank and is effective for data that requires order when evaluating. 
 for example, PG (Parental Guidance) where movies with this rating can be watched by children with parental supervision. and other ratings
+
+![Screenshot (841)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/f623819a-9eaa-4685-a271-6e6fb0e05de6)
 
 #### 2) Numeric
 Data used a constant variable, to store a value in the form of a number.
@@ -30,12 +32,16 @@ because in the netflix.csv dataset, i didn't find any example of continues data,
 Example:
 Bedrooms column is an integer, where integers are included in discrete data and can take on possible values hat can be listed out.
 
-![Screenshot (834)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/abb1e609-8412-49ec-a96e-cfdfa5a17bf0)
+![Screenshot (843)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/614bc832-e2d9-4212-8d96-656596e20456)
+
 
 ##### - Continues
 A data that can be retrieved but has an unlimited number of values and of course the value is not fixed. Can possible values cannot be counted and only be described using interval on the real number line.
 Example:
 guest_satisfaction_overall column is a measurements, possible values cannot be counted and can only be described using intervals
+
+![Screenshot (845)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/689d5873-61e4-46a3-aca1-17ceb81e9539)
+
 
 #### 3) Boolean
 This data type is usually used to represent true and false values in data
@@ -46,8 +52,13 @@ Example: The boolean data is room_shared column, room_private column, host_is_su
 ##### - Structures data
 Structured data example are name, dates, stock information, person capacity, bedrooms, etc
 
+![Screenshot (847)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/78851578-46d6-4371-a41e-fc4a4c5881c7)
+
+
 ##### - Unstructures data
 Unstructured data example are audio, image, video, natural language, document
+
+![Screenshot (848)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/6d284146-da2c-4d93-b293-409f72208019)
 
 #### 2) Data Categories
 ##### - Quatitantive
