@@ -10,8 +10,8 @@ In the world of pandas DataFrames, data aggregation involves summarizing and com
 Pivoting involves restructuring data from a format where each observation has multiple rows (long format) to a format where summary statistics for different categories are displayed in columns (wide format). This transformation makes it possible to condense large data sets and highlight important insights more effectively.
 
 Example :
-![image](https://github.com/Rnovranza/Python_Week_3/assets/165742717/a108192c-60b3-463a-9769-f379dcee7a09)
 
+![image](https://github.com/Rnovranza/Python_Week_3/assets/165742717/a108192c-60b3-463a-9769-f379dcee7a09)
 
 #### 2. Grouping
 Grouping is a fundamental operation in pandas that allows organizing and analyzing data based on shared characteristics. This involves segmenting the DataFrame rows into different groups based on the values in one or more columns.
