@@ -83,6 +83,25 @@ Big data refers to extremely large datasets that are too complex and massive to 
 
 Example: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
 
+## Data Cleansing
+Data cleansing, also known as data cleaning, is the process of fixing inconsistencies and errors within a dataset to prepare it for analysis. 
+Jupyter Notebook is a popular interactive environment for working with Python that's well-suited for data cleaning tasks due to its ability to combine code, visualizations, and text explanations.
+
+### Imputation and Distribution
+Imputation refers to the technique of filling in missing values within a dataset. Missing data can arise from various reasons, like sensor malfunctions, human error during data entry, or surveys with non-responses. Unaddressed missing values can lead to inaccurate analysis and biased results.
+Distribution, on the other hand, refers to the way data points are spread out for a particular variable. Understanding the distribution helps you identify potential issues and choose appropriate imputation methods.
+
+Example :
+
+![Imputation and Distribution](https://github.com/Rnovranza/Python_Week_3/assets/101807673/ff74d6f3-0a80-41f5-a14b-f1023af6c040)
+
+### Missing Value
+Missing values, also known as null values, are a common challenge in data cleansing. They occur when data points are absent from a dataset, leaving blank cells or entries represented by special characters like NaN (Not a Number) in Python.
+
+Example :
+
+![Missing Value](https://github.com/Rnovranza/Python_Week_3/assets/101807673/c634d9a4-1188-4566-a905-bb95512763ee)
+
 ## Data Manipulation 
 
 ### Aggregate data 
