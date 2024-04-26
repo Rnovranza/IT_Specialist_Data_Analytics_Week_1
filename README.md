@@ -7,14 +7,14 @@ Data refers to specific information collected and interpreted for a particular p
 ### Type of Data Variable
 #### 1) Category
 A data type that can be stored and identified based on the name or label given to the data.
-##### - nominal
+##### - Nominal
 With this data, it's impossible to establish a specific order or determine superiority, as the data doesn't allow for any calculative comparisons.
 Example: 
 country column is nominal data because we cannot determine which one can be put in the first/last order and which one is better.
 
 ![Screenshot (832)](https://github.com/Rnovranza/Python_Week_3/assets/134476980/6bb15617-1067-43a4-9ef9-554d8c76f27e)
 
-##### - ordinal
+##### - Ordinal
 Ordinal data measures data that is non-numeric and the interval value is unknown.
 Example: 
 Rating column is ordinal data because this data uses a certain order to rank and is effective for data that requires order when evaluating. 
