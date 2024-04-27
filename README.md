@@ -102,6 +102,31 @@ Example :
 
 ![Missing Value](https://github.com/Rnovranza/Python_Week_3/assets/101807673/c634d9a4-1188-4566-a905-bb95512763ee)
 
+### Imputation by mode
+Imputation with mode is usually carried out when finding missing values ​​with categorical values
+
+Example :
+
+![Screen Shot 2024-04-27 at 08 06 15](https://github.com/Rnovranza/Python_Week_3/assets/121234567/6694a92b-74bb-43c2-8630-fb7ac52853e5)
+
+![Screen Shot 2024-04-27 at 08 06 25](https://github.com/Rnovranza/Python_Week_3/assets/121234567/5fbeb7b6-e01e-426d-8494-1b74c3226664)
+
+### Perform data manipulation
+It is not intended to change the value of data but to make the data easier to read by machines
+
+Example :
+
+![Screen Shot 2024-04-27 at 08 09 50](https://github.com/Rnovranza/Python_Week_3/assets/121234567/3aeb9ee8-0a28-4beb-82c3-39eb20edf8aa)
+
+![Screen Shot 2024-04-27 at 08 10 01](https://github.com/Rnovranza/Python_Week_3/assets/121234567/cb7f841c-5426-443c-8785-74a288444234)
+
+### Relationships between columns
+Example : relationship between the room_type column and person_capacity
+
+![Screen Shot 2024-04-27 at 08 12 56](https://github.com/Rnovranza/Python_Week_3/assets/121234567/e8546804-4f1a-48d6-897f-48502e6ad77f)
+
+![Screen Shot 2024-04-27 at 08 13 02](https://github.com/Rnovranza/Python_Week_3/assets/121234567/81e732cb-e1e0-426e-a2d5-0da0faa80930)
+
 ## Data Manipulation 
 
 ### Aggregate data 
